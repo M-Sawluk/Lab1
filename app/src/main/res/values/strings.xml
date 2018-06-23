@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Hello">Hello World!</string>
+    <string name="Hello_Michal">Hello Michal</string>
+    <string name="imie">Imię:</string>
+    <string name="nazwisko">Nazwisko:</string>
+    <string name="liczba_ocen">Liczba ocen:</string>
+    <string name="name_empt">Imie jest puste</string>
+    <string name="surname_empty">Nazwisko jest puste</string>
+    <string name="grades_range_wrong">Ilosc ocen powinna być pomiędzy 5 a 15</string>
+    <string name="grades_title">Oceny</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="calculateAvg">Gotowe</string>
+    <string name="enterGrades">Oceny</string>
+    <string name="superString">Super :)</string>
+    <string name="sorry">Tym razem mi nie poszło</string>
+    <string name="yourAvr">Twoja średnia to: </string>
+    <string name="action_settings">ad</string>
+    <string name="surname">Nazwisko:</string>
+    <string name="gratz">Gratulacje otrzymujesz zaliczenie</string>
+    <string name="failed">Wysylam podanie o zaliczenie warunkowe</string>
+</resources>
